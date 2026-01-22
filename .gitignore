@@ -1,0 +1,25 @@
+# Node.js
+node_modules
+/build
+.env
+npm-debug.log*
+yarn-debug.log*
+.nyc_output
+coverage
+.grunt
+.lock-wscript
+.eslintcache
+.stylelintcache
+.mjs.cache
+.cjs.cache
+.ls.cache
+
+# MongoDB
+.mongo
+*.mongodb
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
